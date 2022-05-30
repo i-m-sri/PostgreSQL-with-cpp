@@ -1,5 +1,5 @@
 #include<iostream>
-#include<WinSock2.h>
+#include<WinSock.h>
 #include<vector>
 #include<stdlib.h>
 #include<pqxx/pqxx>
