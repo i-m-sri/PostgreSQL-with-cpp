@@ -6,7 +6,6 @@
 #include"text_color.h"
 #include<thread>
 #include<winsock.h>
-#include<tuple>
 #include<stdio.h>
 
 using namespace pqxx;
